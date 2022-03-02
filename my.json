@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "01",
+        "title" : "Hello",
+        "link": "none",
+        "description" : "Me chamo Gabriel, nasci em Goiânia/GO. Sou apaixonado pela tecnologia, me levando a ser um Desenvolvedor de Software e ter uma paixão por jogos."
+    },
+    {
+        "id" : "02",
+        "title" : "Working",
+        "link": "none",
+        "description" : "Estou trabalhando na LG lugar de gente utilizando como principal ferramenta o C#. Mas também utilizando ASP.NET, Azure, Javascript, CSS, HTML."
+    },
+    {
+        "id" : "03",
+        "title" : "TRE-GO",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:6808507781331718144/",
+        "description" : "Participei do planejamento dum software e seu desenvolvimento. Utilizamos Python, Django, Docker, PostgreSQL e XML para tratamento de dados e outras funcionalidades."
+    },
+    {
+        "id" : "04",
+        "title" : "Support",
+        "link": "none",
+        "description" : "Trabalhei na CPPD-UFG e no TRE-GO como estagiário em Suporte ao Usuário e Manutenção de Hardware. Depois de um tempo que fui chamado pra Desenvolvimento no TRE."
+    },
+    {
+        "id" : "05",
+        "title" : "Pequi Mecânico",
+        "link": "https://ww2.inf.ufg.br/node/1175",
+        "description" : "É um Núcleo de Robótica da UFG para focar nas competições. Fiz parte da equipe RoboCup 2D Soccer Simulation League, depois assumi como capitão da equipe."
+    },
+    {
+        "id" : "06",
+        "title" : "Goiás Júnior",
+        "link": "none",
+        "description" : "É uma Federação Goiana de Empresas Juniores, que fui convidado a fazer parte focando no sucesso de novas parcerias."
+    },
+    {
+        "id" : "07",
+        "title" : "Level 5",
+        "link": "none",
+        "description" : "É uma Empresa Júnior de tecnologia da UFG, nela fiz negociações com clientes e desenvolvi websites."
+    },
+    {
+        "id" : "08",
+        "title" : "Sport",
+        "link": "none",
+        "description" : "Adoro esporte e sempre estou animado para jogar algum. Gosto muito de Handball, Vôlei e Futebol, inclusive fiz escolinha dos três. Hoje em dia queria ter constância no Tênis."
+    },
+    {
+        "id" : "09",
+        "title" : "Games and Books",
+        "link": "none",
+        "description" : "Gosto muito da franquia de jogos Final Fantasy, o meu preferido é o 12. Na leitura, Rangers: Ordem dos Arqueiros e A Crônica do Matador do Rei me divide em saber qual eu gosto mais."
+    },
+    {
+        "id" : "10",
+        "title" : "My Game",
+        "link": "none",
+        "description" : "Gostaria de contar uma história fictícia através de um jogo. Infelizmente não tem data pra lançar."
+    }
+]
